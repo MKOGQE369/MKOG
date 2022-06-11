@@ -1,0 +1,9 @@
+"name": "MKOG-QE369",
+    "website": "https://mkog.io",
+    "description": "MKOG-QE369 Community is about cooperation, assistance and contribution. We unite all efforts of our participants to achieve the goals with minimal input required. MKOG is the Token of the community.",
+    "explorer": "https://tronscan.org/#/token20/TJVKdJRjrHWatbW3YJ6bySuV6Ng4E6iVZo",
+    "type": "trc20",
+    "symbol": "mkog",
+    "decimals": 18,
+    "status": "active",
+    "id": "TJVKdJRjrHWatbW3YJ6bySuV6Ng4E6iVZo"
